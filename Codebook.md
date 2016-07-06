@@ -24,11 +24,11 @@ Citation Request
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-### Variable Descriptions
+## Variable Descriptions
 
 
 Variable | Description
-
+--------- | -----------
 activities | The activity performed
 subject | Subject ID
 tbodyacc-mean-x | Mean time for acceleration of body for X direction
